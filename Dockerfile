@@ -1,5 +1,5 @@
-From ubuntu
-Maintainer jay.patel@tothenew.com
+FROM ubuntu
+MAINTAINER jay.patel@tothenew.com
 
 
 RUN apt-get update
